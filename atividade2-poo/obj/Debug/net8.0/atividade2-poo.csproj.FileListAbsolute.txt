@@ -1,0 +1,14 @@
+C:\Users\nathanestecio\atividade2-poo\bin\Debug\net8.0\atividade2-poo.exe
+C:\Users\nathanestecio\atividade2-poo\bin\Debug\net8.0\atividade2-poo.deps.json
+C:\Users\nathanestecio\atividade2-poo\bin\Debug\net8.0\atividade2-poo.runtimeconfig.json
+C:\Users\nathanestecio\atividade2-poo\bin\Debug\net8.0\atividade2-poo.dll
+C:\Users\nathanestecio\atividade2-poo\bin\Debug\net8.0\atividade2-poo.pdb
+C:\Users\nathanestecio\atividade2-poo\obj\Debug\net8.0\atividade2-poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nathanestecio\atividade2-poo\obj\Debug\net8.0\atividade2-poo.AssemblyInfoInputs.cache
+C:\Users\nathanestecio\atividade2-poo\obj\Debug\net8.0\atividade2-poo.AssemblyInfo.cs
+C:\Users\nathanestecio\atividade2-poo\obj\Debug\net8.0\atividade2-poo.csproj.CoreCompileInputs.cache
+C:\Users\nathanestecio\atividade2-poo\obj\Debug\net8.0\atividade2-poo.dll
+C:\Users\nathanestecio\atividade2-poo\obj\Debug\net8.0\refint\atividade2-poo.dll
+C:\Users\nathanestecio\atividade2-poo\obj\Debug\net8.0\atividade2-poo.pdb
+C:\Users\nathanestecio\atividade2-poo\obj\Debug\net8.0\atividade2-poo.genruntimeconfig.cache
+C:\Users\nathanestecio\atividade2-poo\obj\Debug\net8.0\ref\atividade2-poo.dll
