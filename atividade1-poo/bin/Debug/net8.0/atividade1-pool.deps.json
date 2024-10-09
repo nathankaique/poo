@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "atividade1-pool/1.0.0": {
+        "runtime": {
+          "atividade1-pool.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "atividade1-pool/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\nathanestecio\atividade1-poo\obj\Debug\net8.0\atividade1-pool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nathanestecio\atividade1-poo\obj\Debug\net8.0\atividade1-pool.AssemblyInfoInputs.cache
+C:\Users\nathanestecio\atividade1-poo\obj\Debug\net8.0\atividade1-pool.AssemblyInfo.cs
+C:\Users\nathanestecio\atividade1-poo\obj\Debug\net8.0\atividade1-pool.csproj.CoreCompileInputs.cache
+C:\Users\nathanestecio\atividade1-poo\bin\Debug\net8.0\atividade1-pool.exe
+C:\Users\nathanestecio\atividade1-poo\bin\Debug\net8.0\atividade1-pool.deps.json
+C:\Users\nathanestecio\atividade1-poo\bin\Debug\net8.0\atividade1-pool.runtimeconfig.json
+C:\Users\nathanestecio\atividade1-poo\bin\Debug\net8.0\atividade1-pool.dll
+C:\Users\nathanestecio\atividade1-poo\bin\Debug\net8.0\atividade1-pool.pdb
+C:\Users\nathanestecio\atividade1-poo\obj\Debug\net8.0\atividade1-pool.dll
+C:\Users\nathanestecio\atividade1-poo\obj\Debug\net8.0\refint\atividade1-pool.dll
+C:\Users\nathanestecio\atividade1-poo\obj\Debug\net8.0\atividade1-pool.pdb
+C:\Users\nathanestecio\atividade1-poo\obj\Debug\net8.0\atividade1-pool.genruntimeconfig.cache
+C:\Users\nathanestecio\atividade1-poo\obj\Debug\net8.0\ref\atividade1-pool.dll
